@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Chongqing">Chongqing</string>
+    <string name="Sunday">Sunday</string>
+    <string name="mon">mon</string>
+    <string name="tue">tue</string>
+    <string name="wed">wed</string>
+    <string name="thu">thu</string>
+    <string name="fri">fri</string>
+</resources>
